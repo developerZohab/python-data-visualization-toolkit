@@ -1,0 +1,24 @@
+import matplotlib.pyplot as pd
+
+plt.plot(x,y) 
+x is horizontal axis
+y is vertical axis
+plt.show()
+
+Important term is pyplot
+1- Data point
+2- x-axis/y-axis
+3- figure
+4- Axes
+5- label
+6- Marker
+7- line style
+8- function
+9- methods
+10- color
+11- Legends
+12- Grid
+13- parameters
+14- keyword arguments
+15- Object oriented API
+16- DPI (dot pr inch)

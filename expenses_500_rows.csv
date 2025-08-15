@@ -1,0 +1,501 @@
+Date,Category,Amount,Description
+2024-01-01,Food,43.89,Lunch with friends
+2024-01-01,Transport,38.21,Ride-hailing trip
+2024-01-02,Rent,476.21,Advance rent payment
+2024-01-02,Transport,17.58,Metro card reload
+2024-01-03,Education,269.61,Books & stationery
+2024-01-04,Food,3.25,Lunch with friends
+2024-01-05,Transport,10.19,Fuel for car
+2024-01-05,Shopping,15.41,Home essentials
+2024-01-05,Health,94.17,Pharmacy purchase
+2024-01-05,Health,114.45,Dental checkup
+2024-01-07,Shopping,255.13,Home essentials
+2024-01-08,Food,4.27,Cafe coffee & snack
+2024-01-09,Travel,349.07,Flight ticket
+2024-01-10,Food,28.78,Lunch with friends
+2024-01-11,Miscellaneous,76.81,Pet supplies
+2024-01-12,Miscellaneous,76.78,Charity donation
+2024-01-15,Entertainment,106.04,Movie tickets
+2024-01-15,Utilities,123.65,Water bill
+2024-01-15,Transport,5.09,Fuel for car
+2024-01-16,Food,6.32,Dinner takeout
+2024-01-19,Education,122.87,Books & stationery
+2024-01-21,Shopping,182.95,Clothes & accessories
+2024-01-21,Rent,320.21,Security deposit top-up
+2024-01-23,Entertainment,58.13,Arcade games
+2024-01-25,Miscellaneous,40.87,Charity donation
+2024-01-25,Food,34.92,Weekend brunch
+2024-01-25,Miscellaneous,45.19,Charity donation
+2024-01-28,Food,13.27,Lunch with friends
+2024-02-02,Transport,3.48,Ride-hailing trip
+2024-02-02,Food,28.5,Weekend brunch
+2024-02-04,Shopping,364.18,Clothes & accessories
+2024-02-05,Entertainment,96.8,Streaming subscription
+2024-02-06,Transport,37.2,Bus fare
+2024-02-07,Food,49.01,Groceries at supermarket
+2024-02-08,Rent,394.94,Advance rent payment
+2024-02-08,Transport,4.56,Metro card reload
+2024-02-10,Transport,11.14,Ride-hailing trip
+2024-02-10,Utilities,138.94,Gas bill
+2024-02-11,Miscellaneous,32.61,Charity donation
+2024-02-11,Rent,688.41,Security deposit top-up
+2024-02-12,Shopping,82.34,Clothes & accessories
+2024-02-16,Utilities,101.82,Internet subscription
+2024-02-16,Rent,532.56,Security deposit top-up
+2024-02-18,Miscellaneous,5.4,Bank fee
+2024-02-18,Miscellaneous,15.89,Charity donation
+2024-02-20,Entertainment,80.07,Movie tickets
+2024-02-20,Utilities,115.74,Electricity bill
+2024-02-20,Food,24.88,Cafe coffee & snack
+2024-02-22,Miscellaneous,29.1,Bank fee
+2024-02-23,Food,28.24,Cafe coffee & snack
+2024-02-23,Utilities,145.84,Internet subscription
+2024-02-27,Entertainment,14.02,Movie tickets
+2024-02-27,Entertainment,110.25,Arcade games
+2024-03-01,Transport,8.5,Bus fare
+2024-03-05,Entertainment,6.8,Streaming subscription
+2024-03-07,Miscellaneous,52.61,Charity donation
+2024-03-09,Entertainment,117.7,Arcade games
+2024-03-09,Food,16.78,Lunch with friends
+2024-03-10,Shopping,284.73,Gift purchase
+2024-03-13,Entertainment,15.61,Concert ticket
+2024-03-15,Miscellaneous,73.99,Pet supplies
+2024-03-16,Food,19.68,Lunch with friends
+2024-03-18,Shopping,187.7,Home essentials
+2024-03-18,Rent,485.38,Monthly apartment rent
+2024-03-21,Transport,11.4,Ride-hailing trip
+2024-03-24,Entertainment,57.78,Movie tickets
+2024-03-25,Health,92.86,Dental checkup
+2024-03-26,Entertainment,6.66,Movie tickets
+2024-03-27,Travel,1175.14,Hotel booking
+2024-03-30,Education,102.5,Workshop registration
+2024-03-30,Miscellaneous,61.89,Pet supplies
+2024-04-03,Miscellaneous,68.73,Bank fee
+2024-04-04,Miscellaneous,74.5,Pet supplies
+2024-04-05,Miscellaneous,44.84,Bank fee
+2024-04-05,Entertainment,44.19,Streaming subscription
+2024-04-05,Food,35.69,Cafe coffee & snack
+2024-04-05,Travel,1186.7,Local tour
+2024-04-06,Education,215.02,Online course fee
+2024-04-08,Transport,17.09,Bus fare
+2024-04-08,Shopping,238.56,Clothes & accessories
+2024-04-08,Miscellaneous,78.47,Charity donation
+2024-04-09,Food,9.71,Groceries at supermarket
+2024-04-09,Entertainment,10.21,Arcade games
+2024-04-12,Education,241.0,Online course fee
+2024-04-12,Shopping,58.87,Gift purchase
+2024-04-13,Food,32.34,Dinner takeout
+2024-04-13,Health,140.92,Pharmacy purchase
+2024-04-14,Transport,17.18,Fuel for car
+2024-04-15,Travel,1037.59,Flight ticket
+2024-04-15,Health,67.98,Doctor consultation
+2024-04-16,Shopping,368.74,Home essentials
+2024-04-20,Utilities,115.79,Gas bill
+2024-04-20,Travel,172.08,Local tour
+2024-04-22,Food,21.84,Dinner takeout
+2024-04-22,Miscellaneous,7.06,Bank fee
+2024-04-24,Miscellaneous,41.97,Bank fee
+2024-04-25,Food,16.84,Lunch with friends
+2024-04-26,Transport,38.57,Taxi to office
+2024-04-27,Miscellaneous,66.06,Bank fee
+2024-04-27,Miscellaneous,22.12,Bank fee
+2024-04-28,Food,15.6,Lunch with friends
+2024-04-29,Transport,11.56,Bus fare
+2024-05-02,Utilities,51.48,Internet subscription
+2024-05-05,Utilities,102.34,Internet subscription
+2024-05-05,Transport,5.67,Bus fare
+2024-05-06,Shopping,279.91,Clothes & accessories
+2024-05-06,Shopping,65.25,Gift purchase
+2024-05-07,Miscellaneous,31.07,Charity donation
+2024-05-07,Travel,234.89,Travel insurance
+2024-05-09,Entertainment,6.4,Concert ticket
+2024-05-09,Food,27.95,Groceries at supermarket
+2024-05-10,Health,172.69,Pharmacy purchase
+2024-05-10,Rent,259.26,Security deposit top-up
+2024-05-11,Miscellaneous,26.66,Pet supplies
+2024-05-12,Shopping,296.13,Home essentials
+2024-05-12,Entertainment,96.59,Arcade games
+2024-05-14,Utilities,113.72,Water bill
+2024-05-16,Food,6.77,Groceries at supermarket
+2024-05-16,Entertainment,28.64,Arcade games
+2024-05-17,Rent,666.96,Advance rent payment
+2024-05-18,Food,46.8,Cafe coffee & snack
+2024-05-19,Shopping,50.36,Gift purchase
+2024-05-20,Food,21.67,Groceries at supermarket
+2024-05-24,Education,270.88,Online course fee
+2024-05-24,Health,71.87,Pharmacy purchase
+2024-05-25,Miscellaneous,8.78,Charity donation
+2024-05-27,Entertainment,52.68,Concert ticket
+2024-05-28,Transport,2.69,Fuel for car
+2024-05-29,Food,30.77,Lunch with friends
+2024-05-30,Rent,601.58,Security deposit top-up
+2024-05-30,Education,255.96,Workshop registration
+2024-05-31,Food,22.01,Cafe coffee & snack
+2024-06-01,Entertainment,5.58,Arcade games
+2024-06-02,Travel,440.05,Hotel booking
+2024-06-03,Travel,368.44,Local tour
+2024-06-04,Transport,9.29,Fuel for car
+2024-06-05,Transport,6.92,Bus fare
+2024-06-05,Travel,966.59,Travel insurance
+2024-06-06,Shopping,197.54,Electronics accessory
+2024-06-07,Transport,15.77,Ride-hailing trip
+2024-06-08,Transport,37.67,Fuel for car
+2024-06-09,Utilities,61.2,Water bill
+2024-06-09,Health,8.52,Pharmacy purchase
+2024-06-10,Shopping,166.45,Gift purchase
+2024-06-11,Rent,543.38,Monthly apartment rent
+2024-06-13,Health,50.48,Dental checkup
+2024-06-15,Transport,17.54,Fuel for car
+2024-06-16,Miscellaneous,65.17,Household repair
+2024-06-16,Education,31.1,Workshop registration
+2024-06-19,Miscellaneous,17.84,Household repair
+2024-06-20,Miscellaneous,17.73,Charity donation
+2024-06-20,Education,282.73,Books & stationery
+2024-06-21,Food,39.17,Lunch with friends
+2024-06-21,Miscellaneous,5.37,Pet supplies
+2024-06-25,Shopping,313.3,Clothes & accessories
+2024-06-26,Miscellaneous,69.63,Pet supplies
+2024-06-27,Education,81.99,Books & stationery
+2024-07-01,Entertainment,72.25,Concert ticket
+2024-07-08,Utilities,72.03,Gas bill
+2024-07-08,Miscellaneous,10.58,Household repair
+2024-07-08,Transport,22.91,Taxi to office
+2024-07-08,Miscellaneous,9.07,Household repair
+2024-07-10,Health,117.31,Gym membership
+2024-07-12,Health,20.86,Dental checkup
+2024-07-12,Miscellaneous,43.69,Bank fee
+2024-07-13,Shopping,208.52,Gift purchase
+2024-07-14,Utilities,110.08,Gas bill
+2024-07-16,Utilities,71.85,Gas bill
+2024-07-16,Transport,37.65,Metro card reload
+2024-07-19,Miscellaneous,12.87,Household repair
+2024-07-19,Shopping,127.26,Gift purchase
+2024-07-19,Miscellaneous,50.62,Pet supplies
+2024-07-19,Travel,398.52,Hotel booking
+2024-07-26,Miscellaneous,71.97,Bank fee
+2024-07-28,Health,124.23,Doctor consultation
+2024-07-28,Miscellaneous,39.51,Charity donation
+2024-07-31,Entertainment,119.19,Arcade games
+2024-08-03,Transport,24.55,Taxi to office
+2024-08-04,Shopping,115.97,Clothes & accessories
+2024-08-05,Miscellaneous,47.73,Bank fee
+2024-08-05,Entertainment,92.79,Streaming subscription
+2024-08-07,Food,29.86,Lunch with friends
+2024-08-07,Transport,2.79,Bus fare
+2024-08-10,Shopping,11.05,Electronics accessory
+2024-08-10,Rent,653.47,Security deposit top-up
+2024-08-11,Education,295.73,Online course fee
+2024-08-12,Transport,29.71,Metro card reload
+2024-08-12,Rent,535.46,Monthly apartment rent
+2024-08-13,Travel,1036.06,Local tour
+2024-08-16,Transport,25.19,Fuel for car
+2024-08-16,Miscellaneous,21.73,Pet supplies
+2024-08-16,Transport,39.31,Bus fare
+2024-08-16,Entertainment,28.19,Arcade games
+2024-08-17,Transport,4.28,Metro card reload
+2024-08-18,Food,7.19,Groceries at supermarket
+2024-08-18,Rent,507.92,Monthly apartment rent
+2024-08-21,Food,18.87,Cafe coffee & snack
+2024-08-22,Food,22.82,Cafe coffee & snack
+2024-08-22,Food,36.17,Weekend brunch
+2024-08-24,Miscellaneous,23.83,Bank fee
+2024-08-24,Miscellaneous,33.4,Pet supplies
+2024-08-26,Rent,480.25,Monthly apartment rent
+2024-08-26,Food,29.76,Cafe coffee & snack
+2024-08-28,Shopping,129.17,Electronics accessory
+2024-08-29,Shopping,222.88,Clothes & accessories
+2024-08-30,Transport,1.71,Taxi to office
+2024-08-30,Utilities,40.96,Electricity bill
+2024-08-31,Food,30.84,Dinner takeout
+2024-09-02,Education,114.25,Workshop registration
+2024-09-03,Shopping,23.85,Gift purchase
+2024-09-05,Transport,21.05,Taxi to office
+2024-09-08,Utilities,25.88,Water bill
+2024-09-09,Miscellaneous,78.93,Bank fee
+2024-09-10,Utilities,46.59,Internet subscription
+2024-09-10,Transport,1.36,Metro card reload
+2024-09-12,Utilities,91.77,Internet subscription
+2024-09-12,Food,30.31,Dinner takeout
+2024-09-13,Utilities,30.99,Internet subscription
+2024-09-14,Food,4.25,Weekend brunch
+2024-09-15,Shopping,25.47,Electronics accessory
+2024-09-15,Miscellaneous,2.54,Charity donation
+2024-09-15,Shopping,360.96,Gift purchase
+2024-09-17,Shopping,141.35,Electronics accessory
+2024-09-17,Miscellaneous,39.94,Household repair
+2024-09-19,Utilities,105.8,Water bill
+2024-09-20,Miscellaneous,69.22,Household repair
+2024-09-20,Miscellaneous,9.76,Pet supplies
+2024-09-20,Utilities,120.1,Gas bill
+2024-09-25,Utilities,146.04,Internet subscription
+2024-09-26,Shopping,292.27,Clothes & accessories
+2024-09-27,Shopping,294.14,Home essentials
+2024-09-27,Health,22.26,Doctor consultation
+2024-09-28,Miscellaneous,42.3,Charity donation
+2024-09-29,Shopping,216.06,Gift purchase
+2024-09-30,Health,92.25,Dental checkup
+2024-09-30,Miscellaneous,76.01,Pet supplies
+2024-10-03,Transport,38.74,Metro card reload
+2024-10-03,Rent,476.19,Security deposit top-up
+2024-10-03,Rent,527.87,Security deposit top-up
+2024-10-03,Miscellaneous,13.92,Bank fee
+2024-10-05,Transport,30.43,Metro card reload
+2024-10-07,Utilities,136.58,Water bill
+2024-10-08,Food,20.9,Groceries at supermarket
+2024-10-09,Transport,17.94,Taxi to office
+2024-10-09,Shopping,141.55,Gift purchase
+2024-10-10,Food,34.44,Groceries at supermarket
+2024-10-11,Shopping,171.46,Clothes & accessories
+2024-10-11,Utilities,101.25,Water bill
+2024-10-14,Entertainment,82.18,Arcade games
+2024-10-14,Shopping,343.0,Home essentials
+2024-10-15,Utilities,89.35,Electricity bill
+2024-10-15,Rent,459.1,Advance rent payment
+2024-10-17,Travel,213.83,Flight ticket
+2024-10-18,Travel,865.09,Local tour
+2024-10-20,Education,116.66,Online course fee
+2024-10-22,Education,141.07,Workshop registration
+2024-10-22,Food,42.69,Cafe coffee & snack
+2024-10-22,Food,42.5,Weekend brunch
+2024-10-27,Travel,908.99,Local tour
+2024-10-28,Transport,24.98,Fuel for car
+2024-10-28,Transport,1.71,Bus fare
+2024-10-29,Travel,516.23,Flight ticket
+2024-10-29,Entertainment,47.6,Concert ticket
+2024-10-30,Transport,38.65,Taxi to office
+2024-11-01,Education,257.13,Online course fee
+2024-11-01,Food,30.73,Weekend brunch
+2024-11-07,Utilities,37.31,Water bill
+2024-11-08,Education,11.34,Books & stationery
+2024-11-09,Entertainment,65.35,Movie tickets
+2024-11-10,Entertainment,118.45,Movie tickets
+2024-11-11,Food,29.47,Dinner takeout
+2024-11-11,Rent,512.65,Advance rent payment
+2024-11-13,Education,226.33,Books & stationery
+2024-11-13,Travel,282.09,Hotel booking
+2024-11-13,Health,45.0,Doctor consultation
+2024-11-15,Entertainment,70.64,Arcade games
+2024-11-16,Health,32.07,Doctor consultation
+2024-11-16,Shopping,33.02,Home essentials
+2024-11-19,Food,40.13,Cafe coffee & snack
+2024-11-19,Shopping,290.29,Gift purchase
+2024-11-20,Miscellaneous,55.35,Household repair
+2024-11-21,Travel,1162.23,Local tour
+2024-11-21,Food,35.7,Cafe coffee & snack
+2024-11-23,Miscellaneous,10.12,Household repair
+2024-11-24,Transport,30.65,Metro card reload
+2024-11-25,Health,154.94,Dental checkup
+2024-11-26,Health,68.25,Dental checkup
+2024-11-29,Miscellaneous,74.77,Pet supplies
+2024-11-30,Miscellaneous,36.12,Household repair
+2024-11-30,Entertainment,50.6,Streaming subscription
+2024-12-03,Entertainment,67.06,Streaming subscription
+2024-12-03,Food,25.82,Dinner takeout
+2024-12-05,Health,52.0,Pharmacy purchase
+2024-12-05,Utilities,136.03,Electricity bill
+2024-12-06,Rent,463.06,Security deposit top-up
+2024-12-07,Travel,371.21,Hotel booking
+2024-12-07,Miscellaneous,65.4,Pet supplies
+2024-12-07,Education,82.57,Books & stationery
+2024-12-09,Health,167.33,Doctor consultation
+2024-12-11,Travel,135.25,Local tour
+2024-12-11,Transport,39.3,Fuel for car
+2024-12-12,Health,93.18,Doctor consultation
+2024-12-13,Food,19.75,Dinner takeout
+2024-12-13,Miscellaneous,22.96,Charity donation
+2024-12-13,Food,33.4,Cafe coffee & snack
+2024-12-15,Education,64.1,Online course fee
+2024-12-15,Rent,328.02,Security deposit top-up
+2024-12-15,Food,28.41,Lunch with friends
+2024-12-19,Miscellaneous,9.33,Charity donation
+2024-12-22,Entertainment,50.83,Movie tickets
+2024-12-23,Miscellaneous,37.54,Charity donation
+2024-12-25,Food,35.74,Cafe coffee & snack
+2024-12-25,Utilities,85.29,Water bill
+2024-12-26,Shopping,298.96,Clothes & accessories
+2024-12-28,Food,28.01,Groceries at supermarket
+2024-12-29,Miscellaneous,12.93,Household repair
+2024-12-30,Entertainment,12.17,Movie tickets
+2025-01-03,Health,115.07,Doctor consultation
+2025-01-03,Health,137.57,Gym membership
+2025-01-07,Food,16.04,Cafe coffee & snack
+2025-01-08,Rent,614.75,Monthly apartment rent
+2025-01-08,Miscellaneous,19.06,Bank fee
+2025-01-08,Utilities,110.7,Water bill
+2025-01-10,Utilities,115.56,Water bill
+2025-01-11,Rent,541.46,Monthly apartment rent
+2025-01-11,Health,51.26,Pharmacy purchase
+2025-01-12,Transport,3.69,Ride-hailing trip
+2025-01-14,Rent,374.2,Monthly apartment rent
+2025-01-14,Transport,6.01,Taxi to office
+2025-01-15,Education,264.17,Books & stationery
+2025-01-18,Shopping,195.6,Home essentials
+2025-01-19,Shopping,10.4,Home essentials
+2025-01-20,Shopping,76.82,Gift purchase
+2025-01-20,Entertainment,46.75,Arcade games
+2025-01-21,Transport,12.73,Taxi to office
+2025-01-21,Transport,23.75,Fuel for car
+2025-01-24,Transport,38.04,Taxi to office
+2025-01-25,Food,37.34,Weekend brunch
+2025-01-26,Miscellaneous,39.18,Bank fee
+2025-01-27,Utilities,112.39,Electricity bill
+2025-01-28,Shopping,172.27,Home essentials
+2025-01-30,Utilities,144.61,Internet subscription
+2025-01-31,Utilities,47.9,Water bill
+2025-02-01,Transport,20.26,Metro card reload
+2025-02-01,Shopping,133.53,Clothes & accessories
+2025-02-01,Shopping,222.06,Clothes & accessories
+2025-02-03,Shopping,25.05,Electronics accessory
+2025-02-04,Food,9.3,Cafe coffee & snack
+2025-02-06,Entertainment,86.78,Arcade games
+2025-02-06,Food,41.62,Lunch with friends
+2025-02-08,Miscellaneous,14.91,Pet supplies
+2025-02-10,Entertainment,19.12,Movie tickets
+2025-02-10,Utilities,106.95,Electricity bill
+2025-02-11,Entertainment,110.02,Movie tickets
+2025-02-14,Utilities,116.71,Internet subscription
+2025-02-18,Rent,644.8,Monthly apartment rent
+2025-02-19,Rent,516.71,Monthly apartment rent
+2025-02-21,Travel,327.62,Local tour
+2025-02-22,Food,39.25,Lunch with friends
+2025-02-23,Food,8.86,Cafe coffee & snack
+2025-02-23,Miscellaneous,72.09,Bank fee
+2025-02-25,Rent,492.9,Advance rent payment
+2025-02-27,Rent,514.35,Advance rent payment
+2025-03-02,Food,47.25,Weekend brunch
+2025-03-06,Food,5.57,Dinner takeout
+2025-03-10,Health,45.93,Dental checkup
+2025-03-12,Shopping,236.13,Home essentials
+2025-03-13,Entertainment,93.82,Arcade games
+2025-03-14,Miscellaneous,61.41,Charity donation
+2025-03-17,Shopping,385.17,Gift purchase
+2025-03-17,Food,45.33,Weekend brunch
+2025-03-17,Miscellaneous,41.08,Charity donation
+2025-03-18,Health,103.57,Gym membership
+2025-03-20,Education,119.62,Books & stationery
+2025-03-21,Food,44.28,Lunch with friends
+2025-03-22,Food,23.48,Dinner takeout
+2025-03-22,Health,146.65,Dental checkup
+2025-03-25,Rent,287.24,Monthly apartment rent
+2025-03-26,Entertainment,34.17,Movie tickets
+2025-03-28,Food,45.32,Weekend brunch
+2025-03-28,Rent,463.38,Advance rent payment
+2025-03-30,Food,31.67,Lunch with friends
+2025-03-31,Food,28.1,Cafe coffee & snack
+2025-04-02,Health,78.68,Gym membership
+2025-04-02,Education,270.25,Books & stationery
+2025-04-03,Entertainment,112.91,Concert ticket
+2025-04-03,Food,43.71,Cafe coffee & snack
+2025-04-04,Miscellaneous,9.97,Pet supplies
+2025-04-05,Health,17.38,Doctor consultation
+2025-04-05,Entertainment,83.74,Arcade games
+2025-04-06,Travel,1021.72,Travel insurance
+2025-04-10,Transport,11.87,Ride-hailing trip
+2025-04-11,Food,7.7,Weekend brunch
+2025-04-12,Entertainment,116.49,Arcade games
+2025-04-13,Education,127.85,Workshop registration
+2025-04-13,Transport,30.34,Taxi to office
+2025-04-14,Food,15.46,Lunch with friends
+2025-04-15,Utilities,23.59,Internet subscription
+2025-04-16,Rent,256.34,Advance rent payment
+2025-04-16,Entertainment,85.85,Arcade games
+2025-04-17,Travel,266.7,Flight ticket
+2025-04-18,Miscellaneous,77.09,Bank fee
+2025-04-20,Transport,21.87,Ride-hailing trip
+2025-04-20,Transport,30.92,Ride-hailing trip
+2025-04-20,Entertainment,116.98,Streaming subscription
+2025-04-21,Food,48.57,Dinner takeout
+2025-04-21,Entertainment,39.1,Movie tickets
+2025-04-21,Rent,462.43,Security deposit top-up
+2025-04-21,Rent,375.8,Advance rent payment
+2025-04-25,Transport,8.61,Taxi to office
+2025-04-29,Rent,332.03,Monthly apartment rent
+2025-04-29,Food,14.72,Groceries at supermarket
+2025-05-02,Food,32.05,Dinner takeout
+2025-05-03,Shopping,277.92,Clothes & accessories
+2025-05-04,Rent,411.31,Security deposit top-up
+2025-05-05,Health,192.72,Gym membership
+2025-05-06,Rent,640.09,Monthly apartment rent
+2025-05-07,Entertainment,112.71,Concert ticket
+2025-05-10,Travel,1038.5,Travel insurance
+2025-05-11,Food,28.98,Weekend brunch
+2025-05-13,Miscellaneous,50.22,Household repair
+2025-05-13,Transport,28.57,Metro card reload
+2025-05-14,Rent,550.64,Monthly apartment rent
+2025-05-14,Miscellaneous,78.01,Pet supplies
+2025-05-15,Transport,36.68,Bus fare
+2025-05-16,Transport,2.26,Fuel for car
+2025-05-17,Education,151.46,Books & stationery
+2025-05-17,Rent,489.34,Security deposit top-up
+2025-05-18,Food,33.53,Cafe coffee & snack
+2025-05-18,Transport,29.19,Taxi to office
+2025-05-20,Shopping,7.05,Home essentials
+2025-05-20,Travel,765.57,Hotel booking
+2025-05-22,Food,16.43,Cafe coffee & snack
+2025-05-24,Entertainment,113.12,Arcade games
+2025-05-24,Miscellaneous,56.31,Household repair
+2025-05-25,Transport,36.4,Ride-hailing trip
+2025-05-25,Shopping,60.1,Electronics accessory
+2025-05-25,Transport,9.83,Bus fare
+2025-05-25,Rent,290.63,Advance rent payment
+2025-05-27,Transport,25.47,Metro card reload
+2025-05-27,Transport,21.84,Taxi to office
+2025-05-27,Miscellaneous,59.81,Household repair
+2025-05-28,Health,182.57,Doctor consultation
+2025-05-30,Health,9.74,Gym membership
+2025-06-01,Food,20.4,Dinner takeout
+2025-06-01,Health,139.88,Pharmacy purchase
+2025-06-01,Transport,36.09,Metro card reload
+2025-06-04,Miscellaneous,62.24,Household repair
+2025-06-04,Shopping,218.95,Home essentials
+2025-06-05,Miscellaneous,76.03,Household repair
+2025-06-05,Transport,20.27,Metro card reload
+2025-06-06,Food,15.19,Dinner takeout
+2025-06-07,Entertainment,28.73,Concert ticket
+2025-06-08,Miscellaneous,8.0,Bank fee
+2025-06-09,Food,32.06,Groceries at supermarket
+2025-06-09,Transport,36.09,Bus fare
+2025-06-09,Transport,12.49,Bus fare
+2025-06-14,Rent,300.04,Advance rent payment
+2025-06-15,Utilities,29.81,Water bill
+2025-06-17,Entertainment,15.2,Concert ticket
+2025-06-21,Miscellaneous,65.19,Bank fee
+2025-06-29,Entertainment,19.81,Arcade games
+2025-06-30,Food,25.19,Lunch with friends
+2025-07-03,Utilities,49.56,Internet subscription
+2025-07-03,Miscellaneous,34.12,Bank fee
+2025-07-03,Transport,23.67,Taxi to office
+2025-07-04,Travel,812.46,Flight ticket
+2025-07-04,Food,47.03,Dinner takeout
+2025-07-07,Shopping,178.54,Clothes & accessories
+2025-07-07,Shopping,117.09,Gift purchase
+2025-07-07,Travel,184.34,Hotel booking
+2025-07-09,Miscellaneous,78.28,Charity donation
+2025-07-09,Rent,672.77,Advance rent payment
+2025-07-11,Rent,284.29,Monthly apartment rent
+2025-07-13,Miscellaneous,16.26,Bank fee
+2025-07-14,Shopping,212.29,Home essentials
+2025-07-15,Miscellaneous,53.68,Charity donation
+2025-07-16,Shopping,357.36,Home essentials
+2025-07-16,Food,20.98,Cafe coffee & snack
+2025-07-18,Miscellaneous,75.69,Charity donation
+2025-07-19,Food,4.55,Weekend brunch
+2025-07-19,Education,168.55,Books & stationery
+2025-07-19,Miscellaneous,56.29,Household repair
+2025-07-20,Transport,9.87,Ride-hailing trip
+2025-07-25,Transport,11.17,Bus fare
+2025-07-25,Transport,33.83,Metro card reload
+2025-07-26,Rent,251.17,Security deposit top-up
+2025-07-27,Rent,668.22,Monthly apartment rent
+2025-07-27,Travel,767.42,Hotel booking
+2025-07-28,Shopping,358.83,Electronics accessory
+2025-07-28,Education,155.79,Books & stationery
+2025-07-28,Travel,1178.57,Flight ticket
+2025-07-28,Miscellaneous,34.33,Pet supplies
+2025-07-30,Rent,682.54,Monthly apartment rent
+2025-07-31,Miscellaneous,50.7,Household repair
+2025-07-31,Education,243.46,Books & stationery
+2025-08-09,Utilities,141.63,Gas bill
+2025-08-10,Entertainment,48.61,Movie tickets
+2025-08-10,Transport,27.83,Taxi to office
+2025-08-12,Education,217.08,Books & stationery
