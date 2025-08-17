@@ -101,4 +101,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 **[Developer Zohab](https://github.com/developerZohab)**  
 Passionate about turning data into visually appealing insights.  
-📧 zohabalam845@example.com
+📧 zohabalam845@gmail.com
+
